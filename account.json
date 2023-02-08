@@ -1,0 +1,53 @@
+[{
+    "id": 0,
+    "username": "simone",
+    "password": "password123"
+}, {
+    "id": 1,
+    "username": "username1",
+    "password": "password1"
+}, {
+    "id": 2,
+    "username": "username2",
+    "password": "password2"
+}, {
+    "id": 3,
+    "username": "username3",
+    "password": "password3"
+}, {
+    "id": 4,
+    "username": "Pippo",
+    "password": "pippo"
+}, {
+    "id": 5,
+    "username": "Pluto",
+    "password": "pluto"
+}, {
+    "id": 6,
+    "username": "Paperino",
+    "password": "paperino"
+}, {
+    "id": 7,
+    "username": "Topolino",
+    "password": "topolino"
+}, {
+    "id": 8,
+    "username": "Topolina",
+    "password": "topolina"
+}, {
+    "id": 9,
+    "username": "Paperina",
+    "password": "paperina"
+}, {
+    "id": 10,
+    "username": "GambaDiLegno",
+    "password": "gambadilegno"
+}, {
+    "id": 11,
+    "username": "Clarabella",
+    "password": "clarabella"
+}, {
+    "id": 12,
+    "username": "Paperone",
+    "password": "paperone"
+}]
